@@ -4,6 +4,7 @@ Word runner is a simple tool for reciting words, based on Python3 and PyQt5.15.2
 
 # Environment Settings
 *build $ pip install PyQt5*
+
 *build $ pip install PyQt5-tools*
 
 # How to Use:
