@@ -1,4 +1,4 @@
-# Word Runner v0.0.1
+# Word Runner
 
 Word runner is a simple tool to recite words, based on Python3 and PyQt5.15.2.
 
