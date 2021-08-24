@@ -134,6 +134,7 @@ class WR_GUI_frame(QWidget):
             self.current_para = self.vob_sheet.cell(self.current_line, 3).value
             self.word_chinese.setText(self.current_para)
             self.word_qle.clear()
+            self.review_flag = False
 
 
     def jump_function(self):
